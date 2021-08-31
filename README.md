@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bertha7381
 - 👀 I’m interested in education and finance
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning finance
+- 💞️ I’m looking to collaborate on education, finance, entrepreneur
 - 📫 How to reach me IG bertha
 
 <!---
